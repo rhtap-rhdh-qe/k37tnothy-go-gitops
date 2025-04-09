@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: k37tnothy-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/k37tnothy-go
